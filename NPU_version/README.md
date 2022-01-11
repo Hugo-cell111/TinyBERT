@@ -17,8 +17,14 @@ Requirements
 First of all, you need to use the command ```cd``` to change the current working dir to where the test folder locates.
 
 - virtual environment
+The specific PyTorch version is required:
+1018版本
+CANN toolkit_5.0.3
+20211018_FrameworkPTAdapter2.0.T308 post3.20210930
+固件驱动 21.0.3.1
+torch版本：1.5.0+ascend.post3
 
-Run command below to install the environment(**using python3**)
+Plus, run command below to install the environment(**using python3**)
 ```bash
 pip3.7 install -r requirements.txt
 # or
