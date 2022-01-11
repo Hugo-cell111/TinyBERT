@@ -8,7 +8,7 @@ This implement training of TinyBERT on the SST-2 dataset is mainly modified from
 
 For more details about the techniques of TinyBERT, refer to the paper: [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/abs/1909.10351)
 
-Specifically, this implement is modified to adapt the NPU chips.
+Specifically, this implement is modified to adapt the GPU chips.
 
 Requirements
 ===========
